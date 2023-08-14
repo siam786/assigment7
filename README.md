@@ -16,6 +16,6 @@ This simple vue3 Carousel and cart app using Flickerjs and Chart.js
 
 
 ## Live demo Look
-![Live Demo](https://gifyu.com/image/ScyDu)
+![Live Demo](https://s11.gifyu.com/images/ScyDu.gif)
 
 

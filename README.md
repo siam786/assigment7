@@ -7,7 +7,7 @@ This simple vue3 Carousel and cart app using Flickerjs and Chart.js
 
 ## Live Link
 
-- [@Live Link](https://m7assist.vercel.app/)
+- [@Live Link](https://assigment7.vercel.app/)
 
 
 ## Screenshots
